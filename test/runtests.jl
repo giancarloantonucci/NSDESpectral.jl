@@ -1,6 +1,6 @@
-using Spectral
+using NSDESpectral
 using Test
 
-@testset "Spectral.jl" begin
+@testset "NSDESpectral.jl" begin
     # Write your tests here.
 end
